@@ -1,4 +1,4 @@
-# Math_Processing
+# Math Processing
 
 This task asks participants to answer simple math problems. Rather than computing the answer, participants simply answer whether the answer is greater or less than 5, allowing for 'yes/no' responses. Patterned after the Math processing test decribed by Perez et al (1987).
 
